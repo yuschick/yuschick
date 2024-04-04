@@ -6,9 +6,7 @@
 
 As a senior frontend developer, author, and speaker originally from the US but now calling Helsinki, Finland home, you can catch me sharing insights on platforms like [Smashing Magazine](https://www.smashingmagazine.com/author/daniel-yuschick/), [LogRocket](https://blog.logrocket.com/author/danielyuschick/) and formerly [CSS Tricks](https://css-tricks.com/author/danyuschick/). Whether it's at conferences, meetups, or consulting with local companies, I love diving into topics like web accessibility (a11y) and design systems. Back in the US, I used to teach frontend engineering to career changers, and that passion for helping others continues today through my volunteer work with the Helsinki chapter of [CodeBar](https://codebar.io/).
 
-I'm most passionate about great chocolate, beautiful tattoos and bridging design and development to create accessible and resilient design systems.
-
-Catch me at a local metal show, drinking hot chocolate at a cafe, gaming or sporting (basketball, squash, climbing).
+I'm most passionate about great chocolate, beautiful tattoos and bridging design and development to create accessible and resilient design systems. Catch me at a local metal show, drinking hot chocolate at a cafe, gaming or sporting (basketball, squash, climbing).
 
 ### Speaking
 
