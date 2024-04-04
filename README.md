@@ -1,4 +1,4 @@
-<img alt="Daniel Yuschick speaking at HelsinkiJS about building components in React and TypeScript." src="https://media.licdn.com/dms/image/D4D22AQHy0eRR0p3Jqg/feedshare-shrink_2048_1536/0/1709282409892?e=1715212800&v=beta&t=wdrN4rQodnvxI5GQzu8-Zs9ARL6Mna1TOqvNJPkZaVg" height="400" style="width: 100%; object-fit: cover; object-position: center;">
+<img alt="Daniel Yuschick speaking at HelsinkiJS about building components in React and TypeScript." src="https://media.licdn.com/dms/image/D4D22AQHy0eRR0p3Jqg/feedshare-shrink_2048_1536/0/1709282409892?e=1715212800&v=beta&t=wdrN4rQodnvxI5GQzu8-Zs9ARL6Mna1TOqvNJPkZaVg" style="inline-size: 100%; max-block-size: 400px; object-fit: cover; object-position: center;">
 
 ## Hey y'all 🤘 I'm Daniel.
 
