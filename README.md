@@ -1,4 +1,4 @@
-![Daniel Yuschick speaking at HelsinkiJS about building components in React and TypeScript.](https://media.licdn.com/dms/image/D4D22AQHy0eRR0p3Jqg/feedshare-shrink_2048_1536/0/1709282409892?e=1715212800&v=beta&t=wdrN4rQodnvxI5GQzu8-Zs9ARL6Mna1TOqvNJPkZaVg)
+![Daniel Yuschick speaking at HelsinkiJS about building components in React and TypeScript.](./daniel-yuschick-helsinki-js.webp)
 
 ## Hey y'all 🤘 I'm Daniel.
 
