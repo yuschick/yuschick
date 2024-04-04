@@ -10,11 +10,11 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 ### Speaking
 
-- 04.04.2024 - TampereJS
 - 07.05.2024 - enterJS
 
 ### Past Speaking Events
 
+- 04.04.2024 - TampereJS
 - 21.03.2024 - Michigan Technology Conference
 - 22.03.2024 - Michigan Technology Conference
 - 29.02.2024 - HelsinkiJS
