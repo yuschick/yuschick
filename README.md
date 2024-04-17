@@ -11,12 +11,13 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 ### Speaking
 
 - 07.05.2024 - enterJS
+- 02.11.2024 - Moldova DevCon
 
 ### Past Speaking Events
 
 - 04.04.2024 - TampereJS
-- 21.03.2024 - Michigan Technology Conference
 - 22.03.2024 - Michigan Technology Conference
+- 21.03.2024 - Michigan Technology Conference
 - 29.02.2024 - HelsinkiJS
 - 28.02.2024 - Turku ❤️ Frontend
 - 29.09.2023 - RenderCon Nairobi
