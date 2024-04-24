@@ -11,6 +11,7 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 ### Speaking
 
 - 07.05.2024 - enterJS
+- 29.05.2024 - Hive Helsinki
 - 02.11.2024 - Moldova DevCon
 
 ### Past Speaking Events
