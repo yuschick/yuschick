@@ -16,11 +16,11 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 ### Past Speaking Events
 
 07.05.2024 - **enterJS** - _The Keys to an Accessibility Mindset_  
-04.04.2024 - **TampereJS** - _Building Better Components — A Journey to a More Resilient Design Systems_  
+04.04.2024 - **TampereJS** - _Building Better Components — A Journey to a More Resilient Frontend_  
 22.03.2024 - **Michigan Technology Conference** - _The Keys to an Accessibility Mindset_  
-21.03.2024 - **Michigan Technology Conference** - _Building Better Components — A Journey to a More Resilient Design Systems_  
-29.02.2024 - **HelsinkiJS** - _Building Better Components — A Journey to a More Resilient Design Systems_  
-28.02.2024 - **Turku ❤️ Frontend** - _Building Better Components — A Journey to a More Resilient Design Systems_
+21.03.2024 - **Michigan Technology Conference** - _Building Better Components — A Journey to a More Resilient Frontend_  
+29.02.2024 - **HelsinkiJS** - _Building Better Components — A Journey to a More Resilient Frontend_  
+28.02.2024 - **Turku ❤️ Frontend** - _Building Better Components — A Journey to a More Resilient Frontend_
 
 **2023**  
 29.09.2023 - **RenderCon Nairobi** - _The Keys to an Accessibility Mindset_  
