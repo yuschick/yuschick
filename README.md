@@ -11,13 +11,16 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 ### Speaking
 
 <p style="font-variant-numeric: tabular-nums">
+
 29.05.2024 - **Hive Helsinki** - _Approach With Care - Making Digital Accessibility Feel Natural_  
 02.11.2024 - **Moldova DevCon** - _Approach With Care - Making Digital Accessibility Feel Natural_
+
 <p>
 
 ### Past Speaking Events
 
 <p style="font-variant-numeric: tabular-nums">
+
 07.05.2024 - **enterJS** - _The Keys to an Accessibility Mindset_  
 04.04.2024 - **TampereJS** - _Building Better Components — A Journey to a More Resilient Frontend_  
 22.03.2024 - **Michigan Technology Conference** - _The Keys to an Accessibility Mindset_  
