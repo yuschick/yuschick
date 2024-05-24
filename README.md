@@ -10,14 +10,8 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 ### Speaking
 
-<style>
-.test {
-    font-variant-numeric: tabular-nums;
-}
-</style>
-
-<span class="test">29.05.2024</span> - **Hive Helsinki** - \_Approach With Care - Making Digitaclass="test"
-<span class="test">02.11.2024</span> - **Moldova DevCon** - \_Approach With Care - Making Digitaclass="test"
+29.05.2024 - **Hive Helsinki** - _Approach With Care - Making Digital Accessibility Feel Natural_  
+02.11.2024 - **Moldova DevCon** - _Approach With Care - Making Digital Accessibility Feel Natural_
 
 ### Past Speaking Events
 
