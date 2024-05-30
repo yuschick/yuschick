@@ -12,13 +12,13 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 | Date       | Event          | Title                                                          |
 | ---------- | -------------- | -------------------------------------------------------------- |
-| 29.05.2024 | Hive Helsinki  | Approach With Care - Making Digital Accessibility Feel Natural |
 | 02.11.2024 | Moldova DevCon | Approach With Care - Making Digital Accessibility Feel Natural |
 
 ### Past Speaking Events
 
 | Date       | Event                          | Title                                                               |
 | ---------- | ------------------------------ | ------------------------------------------------------------------- |
+| 29.05.2024 | Hive Helsinki                  | Approach With Care - Making Digital Accessibility Feel Natural      |
 | 07.05.2024 | enterJS                        | The Keys to an Accessibility Mindset                                |
 | 04.04.2024 | TampereJS                      | Building Better Components — A Journey to a More Resilient Frontend |
 | 22.03.2024 | Michigan Technology Conference | The Keys to an Accessibility Mindset                                |
