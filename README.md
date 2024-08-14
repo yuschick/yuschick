@@ -10,30 +10,30 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 ### Speaking
 
-| Date          | Event             | Title                                                               |
-| ------------- | ----------------- | ------------------------------------------------------------------- |
-| 02.11.2024    | Moldova DevCon    | Approach With Care - Making Digital Accessibility Feel Natural      |
-| 13-15.11.2024 | Build Stuff       | Building Better Components — A Journey to a More Resilient Frontend |
-| 18.12.2024    | Turku ❤️ Frontend | It's Alive! Facing The Monsters Of Accessible Live Regions          |
+| Date          | Event             | Location     |  Title                                                               |
+| ------------- | ----------------- | ------------ | -------------------------------------------------------------------- |
+| 02.11.2024    | Moldova DevCon    | Chișinău, MD |  Approach With Care - Making Digital Accessibility Feel Natural      |
+| 13-15.11.2024 | Build Stuff       | Vilnius, LT  |  Building Better Components — A Journey to a More Resilient Frontend |
+| 18.12.2024    | Turku ❤️ Frontend | Turku, FI    |  It's Alive! Facing The Monsters Of Accessible Live Regions          |
 
 ### Past Speaking Events
 
-| Date       | Event                          | Title                                                               |
-| ---------- | ------------------------------ | ------------------------------------------------------------------- |
-| 11.07.2024 | TallinnJS                      | Get Lost, JavaScript: Just Kidding — But HTML & CSS Do More Now     |
-| 29.05.2024 | Hive Helsinki                  | Approach With Care - Making Digital Accessibility Feel Natural      |
-| 07.05.2024 | enterJS                        | The Keys to an Accessibility Mindset                                |
-| 04.04.2024 | TampereJS                      | Building Better Components — A Journey to a More Resilient Frontend |
-| 22.03.2024 | Michigan Technology Conference | The Keys to an Accessibility Mindset                                |
-| 21.03.2024 | Michigan Technology Conference | Building Better Components — A Journey to a More Resilient Frontend |
-| 29.02.2024 | HelsinkiJS                     | Building Better Components — A Journey to a More Resilient Frontend |
-| 28.02.2024 | Turku ❤️ Frontend              | Building Better Components — A Journey to a More Resilient Frontend |
-| 29.09.2023 | RenderCon Nairobi              | The Keys to an Accessibility Mindset                                |
-| 13.09.2023 | StackConf Berlin               | The Keys to an Accessibility Mindset                                |
-| 31.05.2023 | Turku ❤️ Frontend              | The Keys to an Accessibility Mindset                                |
-| 04.05.2023 | TampereJS                      | The Keys to an Accessibility Mindset                                |
-| 26.04.2023 | ResQ Club                      | The Keys to an Accessibility Mindset                                |
-| 04.04.2023 | Integrify                      | The Keys to an Accessibility Mindset                                |
-| 28.03.2023 | HelsinkJS                      | The Keys to an Accessibility Mindset                                |
-| 10.03.2023 | Meru Health                    | The Keys to an Accessibility Mindset                                |
-| 21.02.2023 | FiksuRuoka                     | The Keys to an Accessibility Mindset                                |
+| Date       | Event                          | Location        |  Title                                                               |
+| ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 11.07.2024 | TallinnJS                      | Tallinn, EE     |  Get Lost, JavaScript: Just Kidding — But HTML & CSS Do More Now     |
+| 29.05.2024 | Hive Helsinki                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
+| 07.05.2024 | enterJS                        | Mainz, DE       |  The Keys to an Accessibility Mindset                                |
+| 04.04.2024 | TampereJS                      | Tampere, FI     |  Building Better Components — A Journey to a More Resilient Frontend |
+| 22.03.2024 | Michigan Technology Conference | Pontiac, MI, US |  The Keys to an Accessibility Mindset                                |
+| 21.03.2024 | Michigan Technology Conference | Pontiac, MI, US |  Building Better Components — A Journey to a More Resilient Frontend |
+| 29.02.2024 | HelsinkiJS                     | Helsinki, FI    |  Building Better Components — A Journey to a More Resilient Frontend |
+| 28.02.2024 | Turku ❤️ Frontend              | Turku, FI       |  Building Better Components — A Journey to a More Resilient Frontend |
+| 29.09.2023 | RenderCon Nairobi              | Nairobi, KE     |  The Keys to an Accessibility Mindset                                |
+| 13.09.2023 | StackConf Berlin               | Berlin, DE      |  The Keys to an Accessibility Mindset                                |
+| 31.05.2023 | Turku ❤️ Frontend              | Turku, FI       |  The Keys to an Accessibility Mindset                                |
+| 04.05.2023 | TampereJS                      | Tampere, FI     |  The Keys to an Accessibility Mindset                                |
+| 26.04.2023 | ResQ Club                      | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
+| 04.04.2023 | Integrify                      | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
+| 28.03.2023 | HelsinkJS                      | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
+| 10.03.2023 | Meru Health                    | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
+| 21.02.2023 | FiksuRuoka                     | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
