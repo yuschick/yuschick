@@ -10,11 +10,11 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 ### Speaking
 
-| Date          | Event             | Location     |  Title                                                               |
-| ------------- | ----------------- | ------------ | -------------------------------------------------------------------- |
-| 02.11.2024    | Moldova DevCon    | Chișinău, MD |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 13-15.11.2024 | Build Stuff       | Vilnius, LT  |  Building Better Components — A Journey to a More Resilient Frontend |
-| 18.12.2024    | Turku ❤️ Frontend | Turku, FI    |  It's Alive! Facing The Monsters Of Accessible Live Regions          |
+| Date       | Event             | Location     |  Title                                                               |
+| ---------- | ----------------- | ------------ | -------------------------------------------------------------------- |
+| 02.11.2024 | Moldova DevCon    | Chișinău, MD |  Approach With Care - Making Digital Accessibility Feel Natural      |
+| 13.11.2024 | Build Stuff       | Vilnius, LT  |  Building Better Components — A Journey to a More Resilient Frontend |
+| 18.12.2024 | Turku ❤️ Frontend | Turku, FI    |  It's Alive! Facing The Monsters Of Accessible Live Regions          |
 
 ### Past Speaking Events
 
