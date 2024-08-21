@@ -15,6 +15,7 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 | 02.11.2024 | Moldova DevCon    | Chișinău, MD |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 13.11.2024 | Build Stuff       | Vilnius, LT  |  Building Better Components — A Journey to a More Resilient Frontend |
 | 18.12.2024 | Turku ❤️ Frontend | Turku, FI    |  It's Alive! Facing The Monsters Of Accessible Live Regions          |
+| 15.01.2025 | Hive Helsinki     | Helsinki, FI |  Accessibility Workshop                                              |
 
 ### Past Speaking Events
 
