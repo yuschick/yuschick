@@ -12,10 +12,9 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 | Date       | Event             | Location     |  Title                                                               |
 | ---------- | ----------------- | ------------ | -------------------------------------------------------------------- |
-| 03.10.2024 | Netlight          | Helsinki, FI |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 05.10.2024 | RenderCon         | Nairobi, KE  |  Building Better Components — A Journey to a More Resilient Frontend |
+| 24.10.2024 | STHLM Xperience   | Remote       |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 02.11.2024 | Moldova DevCon    | Chișinău, MD |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 13.11.2024 | Build Stuff       | Vilnius, LT  |  Building Better Components — A Journey to a More Resilient Frontend |
+| 15.11.2024 | Build Stuff       | Vilnius, LT  |  Building Better Components — A Journey to a More Resilient Frontend |
 | 18.12.2024 | Turku ❤️ Frontend | Turku, FI    |   Get Lost, JavaScript! Just Kidding — But HTML & CSS Do More Now    |
 | 15.01.2025 | Hive Helsinki     | Helsinki, FI |  Accessibility Workshop                                              |
 
@@ -23,6 +22,8 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 03.10.2024 | RenderCon                      | Nairobi, KE     |  Building Better Components — A Journey to a More Resilient Frontend |
+| 02.10.2024 | Netlight                       | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 11.07.2024 | TallinnJS                      | Tallinn, EE     |  Get Lost, JavaScript! Just Kidding — But HTML & CSS Do More Now     |
 | 29.05.2024 | Hive Helsinki                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 07.05.2024 | enterJS                        | Mainz, DE       |  The Keys to an Accessibility Mindset                                |
