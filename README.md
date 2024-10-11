@@ -10,13 +10,13 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging design
 
 ### Speaking
 
-| Date       | Event             | Location     |  Title                                                               |
-| ---------- | ----------------- | ------------ | -------------------------------------------------------------------- |
-| 24.10.2024 | STHLM Xperience   | Remote       |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 02.11.2024 | Moldova DevCon    | Chișinău, MD |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 15.11.2024 | Build Stuff       | Vilnius, LT  |  Building Better Components — A Journey to a More Resilient Frontend |
-| 18.12.2024 | Turku ❤️ Frontend | Turku, FI    |   Get Lost, JavaScript! Just Kidding — But HTML & CSS Do More Now    |
-| 15.01.2025 | Hive Helsinki     | Helsinki, FI |  Accessibility Workshop                                              |
+| Date       | Event             | Location      |  Title                                                               |
+| ---------- | ----------------- | ------------- | -------------------------------------------------------------------- |
+| 24.10.2024 | STHLM Xperience   | Stockholm, SE |  Approach With Care - Making Digital Accessibility Feel Natural      |
+| 02.11.2024 | Moldova DevCon    | Chișinău, MD  |  Approach With Care - Making Digital Accessibility Feel Natural      |
+| 15.11.2024 | Build Stuff       | Vilnius, LT   |  Building Better Components — A Journey to a More Resilient Frontend |
+| 18.12.2024 | Turku ❤️ Frontend | Turku, FI     |   Get Lost, JavaScript! Just Kidding — But HTML & CSS Do More Now    |
+| 15.01.2025 | Hive Helsinki     | Helsinki, FI  |  Accessibility Workshop                                              |
 
 ### Past Speaking Events
 
