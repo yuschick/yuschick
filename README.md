@@ -2,11 +2,11 @@
 
 ## Hey y'all 🤘 I'm Daniel.
 
-> Frontend, Design Systems, HTML, CSS, JavaScript, TypeScript, React, Accessibility, UI/UX, Mentor, Empathy
+> Frontend Development, Design Systems, HTML, CSS, JavaScript, TypeScript, React, Accessibility, UI/UX, Mentor, Empathy
 
-I'm a Lead Design Systems Developer, author, and speaker originally from the US but now calling Helsinki, Finland home. You can catch me sharing insights on platforms like [Smashing Magazine](https://www.smashingmagazine.com/author/daniel-yuschick/), [LogRocket](https://blog.logrocket.com/author/danielyuschick/) and formerly [CSS Tricks](https://css-tricks.com/author/danyuschick/). Whether it's at conferences, meetups, or consulting with local companies, I love diving into topics like web accessibility (a11y) and design systems. Back in the US, I taught frontend engineering to career changers, and that passion for helping others continues today through my volunteer work with the Helsinki chapter of [CodeBar](https://codebar.io/).
+Over 15 years ago,I began his career as a designer, before moving into frontend development. I've since taken that background in design and a passion for accessibility and moved into the realm of design systems. I'm an accessibility advocate, author, speaker, and a mentor at the Helsinki chapter of [CodeBar](https://codebar.io/) and [Hive Helsinki](https://www.hive.fi/en) coding school. You can also catch me sharing insights on platforms like [Smashing Magazine](https://www.smashingmagazine.com/author/daniel-yuschick/), [CSS Tricks](https://css-tricks.com/author/danyuschick/) and [LogRocket](https://blog.logrocket.com/author/danielyuschick/).
 
-I'm most passionate about great chocolate, beautiful tattoos and bridging design and development to create accessible and resilient design systems. Catch me at a local metal show, drinking hot chocolate at a cafe, gaming or sporting (basketball, squash, climbing).
+I'm most passionate about great chocolate, beautiful tattoos and bridging the gap between design and development to create accessible and resilient design systems.
 
 ### Speaking
 
