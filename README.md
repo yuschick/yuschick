@@ -12,16 +12,14 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging the ga
 
 | Date       | Event             | Location      |  Title                                                               |
 | ---------- | ----------------- | ------------- | -------------------------------------------------------------------- |
-| 15.11.2024 | Build Stuff       | Vilnius, LT   |  Building Better Components — A Journey to a More Resilient Frontend |
 | 18.12.2024 | Turku ❤️ Frontend | Turku, FI     | Beyond JavaScript - Building UIs With Modern HTML & CSS    |
 | 15.01.2025 | Hive Helsinki     | Helsinki, FI  |  Accessibility Workshop                                              |
-| 26.02.2025 | ConFoo     | Montreal, CA  |  Beyond JavaScript -  Building UIs With Modern HTML & CSS                                         |
-| 27.02.2025 | ConFoo     | Montreal, CA  |  It's Alive! Facing The Monsters of Accessible Live Regions                                         |
 
 ### Past Speaking Events
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 15.11.2024 | Build Stuff       | Vilnius, LT   |  Building Better Components — A Journey to a More Resilient Frontend |
 | 02.11.2024 | Moldova DevCon    | Chișinău, MD  |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 24.10.2024 | STHLM Xperience   | Stockholm, SE |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 03.10.2024 | RenderCon                      | Nairobi, KE     |  Building Better Components — A Journey to a More Resilient Frontend |
