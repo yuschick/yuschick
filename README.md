@@ -13,7 +13,7 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging the ga
 | Date       | Event             | Location      |  Title                                                               |
 | ---------- | ----------------- | ------------- | -------------------------------------------------------------------- |
 | 18.12.2024 | Turku ❤️ Frontend | Turku, FI     | Beyond JavaScript - Building UIs With Modern HTML & CSS    |
-| 15.01.2025 | Hive Helsinki     | Helsinki, FI  |  Accessibility Workshop                                              |
+| 27.02.2025 | axe-con     | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions                                              |
 
 ### Past Speaking Events
 
