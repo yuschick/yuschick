@@ -12,7 +12,6 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging the ga
 
 | Date       | Event             | Location      |  Title                                                               |
 | ---------- | ----------------- | ------------- | -------------------------------------------------------------------- |
-| 05.12.2024 | Posti TechCon    | Helsinki, FI  |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 18.12.2024 | Turku ❤️ Frontend | Turku, FI     | Beyond JavaScript - Building UIs With Modern HTML & CSS    |
 | 27.02.2025 | axe-con     | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions                                              |
 | 28.05.2025 | Into Design Systems    | Virtual  |  TBD      |
@@ -21,6 +20,7 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging the ga
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 05.12.2024 | Posti TechCon    | Helsinki, FI  |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 15.11.2024 | Build Stuff       | Vilnius, LT   |  Building Better Components — A Journey to a More Resilient Frontend |
 | 02.11.2024 | Moldova DevCon    | Chișinău, MD  |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 24.10.2024 | STHLM Xperience   | Stockholm, SE |  Approach With Care - Making Digital Accessibility Feel Natural      |
