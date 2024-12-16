@@ -4,7 +4,7 @@
 
 > Frontend Development, Design Systems, HTML, CSS, JavaScript, TypeScript, React, Accessibility, UI/UX, Mentor, Empathy
 
-Over 15 years ago, I began his career as a designer, before moving into frontend development. I've since taken that background in design and a passion for accessibility and moved into the realm of design systems. I'm an accessibility advocate, author, speaker, and a mentor at the Helsinki chapter of [CodeBar](https://codebar.io/) and [Hive Helsinki](https://www.hive.fi/en) coding school. You can also catch me sharing insights on platforms like [Smashing Magazine](https://www.smashingmagazine.com/author/daniel-yuschick/), [CSS Tricks](https://css-tricks.com/author/danyuschick/) and [LogRocket](https://blog.logrocket.com/author/danielyuschick/).
+Over 15 years ago, I began his career as a designer, before moving into frontend development. I've since taken that background in design and a passion for accessibility and moved into the realm of design systems. I'm an accessibility advocate, author, speaker, and a mentor at the Helsinki chapter of [CodeBar](https://codebar.io/) and [Hive Helsinki](https://www.hive.fi/en) coding school. You can also catch me sharing insights on platforms like [Smashing Magazine](https://www.smashingmagazine.com/author/daniel-yuschick/), [CSS Tricks](https://css-tricks.com/author/danyuschick/) and [LogRocket](https://blog.logrocket.com/author/danielyuschick/), or at various conferences and Meetups.
 
 I'm most passionate about great chocolate, beautiful tattoos and bridging the gap between design and development to create accessible and resilient design systems.
 
