@@ -1,9 +1,8 @@
 ![Daniel Yuschick speaking at Moldova DevCon about web accessibility.](./daniel-yuschick--moldova-devcon--github-header.webp)
 
-> [!IMPORTANT]
-> Lead Design Systems Developer, Accessibility Advocate, Tech Speaker, Horror Author, Mentor, Wannabe Explorer
-
 ## Hey y'all, I'm Daniel
+
+> Lead Design Systems Developer, Accessibility Advocate, Tech Speaker, Horror Author, Mentor, Wannabe Explorer
 
 Over 15 years ago, I began his career as a designer, before moving into frontend development. I've since taken that background in design and a passion for accessibility and moved into the realm of design systems. I'm an accessibility advocate, [author](https://www.amazon.com/stores/Daniel-Yuschick/author/B07RZWNCSY?ref=dbs_a_mng_rwt_scns_share&isDramIntegrated=true&shoppingPortalEnabled=true), speaker, and a mentor at the Helsinki chapter of [CodeBar](https://codebar.io/) and the [Hive Helsinki](https://www.hive.fi/en) coding school. You can also catch me sharing insights on platforms like [Smashing Magazine](https://www.smashingmagazine.com/author/daniel-yuschick/), [CSS Tricks](https://css-tricks.com/author/danyuschick/) and [LogRocket](https://blog.logrocket.com/author/danielyuschick/), or at various conferences and Meetups.
 
