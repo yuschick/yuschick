@@ -1,6 +1,6 @@
 ![Daniel Yuschick speaking at Moldova DevCon about web accessibility.](./daniel-yuschick--moldova-devcon--github-header.webp)
 
-> [!NOTE]
+> [!IMPORTANT]
 > Lead Design Systems Developer, Accessibility Advocate, Tech Speaker, Horror Author, Mentor, Tattoo Collector, Wannabe Explorer
 
 ## Hey y'all, I'm Daniel
