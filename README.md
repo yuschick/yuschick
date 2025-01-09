@@ -13,7 +13,7 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging the ga
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
 | 27.02.2025 | axe-con             | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions |
-| 26.03.2024 | Turku ❤️ Frontend              | Turku, FI       | TBA              |
+| 26.03.2025 | Turku ❤️ Frontend              | Turku, FI       | TBA              |
 | 28.05.2025 | Into Design Systems | Virtual  |  TBA                                                        |
 
 ### Past Speaking Events
