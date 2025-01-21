@@ -15,8 +15,10 @@ I'm most passionate about great chocolate, beautiful tattoos and bridging the ga
 | 06.02.2025 | TampereJS             | Tampere, FI  |  TBA |
 | 27.02.2025 | axe-con             | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions |
 | 26.03.2025 | Turku ❤️ Frontend              | Turku, FI       | TBA              |
+| 21.05.2025 | NDC Oslo | Oslo, NO  |  Building Better Components — A Journey to a More Resilient Frontend  |
 | 28.05.2025 | Into Design Systems | Virtual  |  TBA                                                        |
 | 03-05.06.2025 | Webinale             | Berlin, DE  |  Approach With Care - Making Digital Accessibility Feel Natural |
+| 10-1.10.2025 | Moldova DevCon             | Chișinău, MD  |  TBA - Workshop |
 
 ### Past Speaking Events
 
