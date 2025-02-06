@@ -10,7 +10,6 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
-| 06.02.2025 | TampereJS             | Tampere, FI  |  It's Alive! Facing The Monsters of Accessible Live Regions |
 | 24.02.2025 | Future Frontend             | Helsinki, FI  |  Beyond JavaScript - Building UIs With Modern HTML & CSS |
 | 27.02.2025 | axe-con             | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions |
 | 26.03.2025 | Turku ❤️ Frontend              | Turku, FI       | It's Alive! Facing The Monsters of Accessible Live Regions |
@@ -23,6 +22,7 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 06.02.2025 | TampereJS             | Tampere, FI  |  It's Alive! Facing The Monsters of Accessible Live Regions |
 | 18.12.2024 | Turku ❤️ Frontend              | Turku, FI       | Beyond JavaScript - Building UIs With Modern HTML & CSS              |
 | 05.12.2024 | Posti TechCon                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
 | 15.11.2024 | Build Stuff                    | Vilnius, LT     |  Building Better Components — A Journey to a More Resilient Frontend |
