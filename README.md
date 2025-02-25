@@ -10,7 +10,6 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
-
 | 27.02.2025 | axe-con             | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions |
 | 21.05.2025 | NDC Oslo | Oslo, NO  |  Building Better Components — A Journey to a More Resilient Frontend  |
 | 28.05.2025 | Turku ❤️ Frontend | Turku, FI  |  Lift Off! Hand Off! Design Systems Bridging Time And Space (And Species?)  |
