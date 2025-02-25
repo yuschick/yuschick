@@ -10,17 +10,19 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
-| 24.02.2025 | Future Frontend             | Helsinki, FI  |  Beyond JavaScript - Building UIs With Modern HTML & CSS |
+
 | 27.02.2025 | axe-con             | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions |
 | 21.05.2025 | NDC Oslo | Oslo, NO  |  Building Better Components — A Journey to a More Resilient Frontend  |
-| 28.05.2025 | Into Design Systems | Virtual  |  TBA                                                        |
+| 28.05.2025 | Turku ❤️ Frontend | Turku, FI  |  Lift Off! Hand Off! Design Systems Bridging Time And Space (And Species?)  |
+| 29.05.2025 | Into Design Systems | Virtual  |  Lift Off! Hand Off! Design Systems Bridging Time And Space (And Species?)  |
 | 03-05.06.2025 | Webinale             | Berlin, DE  |  Approach With Care - Making Digital Accessibility Feel Natural |
-| 10-11.10.2025 | Moldova DevCon             | Chișinău, MD  |  Design Systems Workshop |
+| 10-11.10.2025 | Moldova DevCon             | Chișinău, MD  |  Scaling Design Systems With Consistent Component Conventions (Workshop) |
 
 ### Past Speaking Events
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 24.02.2025 | Future Frontend             | Helsinki, FI  |  Beyond JavaScript - Building UIs With Modern HTML & CSS |
 | 06.02.2025 | TampereJS             | Tampere, FI  |  It's Alive! Facing The Monsters of Accessible Live Regions |
 | 18.12.2024 | Turku ❤️ Frontend              | Turku, FI       | Beyond JavaScript - Building UIs With Modern HTML & CSS              |
 | 05.12.2024 | Posti TechCon                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
