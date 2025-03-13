@@ -44,10 +44,3 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 | 28.02.2024 | Turku ❤️ Frontend              | Turku, FI       |  Building Better Components — A Journey to a More Resilient Frontend |
 | 29.09.2023 | RenderCon Nairobi              | Remote          |  The Keys to an Accessibility Mindset                                |
 | 13.09.2023 | StackConf Berlin               | Berlin, DE      |  The Keys to an Accessibility Mindset                                |
-| 31.05.2023 | Turku ❤️ Frontend              | Turku, FI       |  The Keys to an Accessibility Mindset                                |
-| 04.05.2023 | TampereJS                      | Tampere, FI     |  The Keys to an Accessibility Mindset                                |
-| 26.04.2023 | ResQ Club                      | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
-| 04.04.2023 | Integrify                      | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
-| 28.03.2023 | HelsinkJS                      | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
-| 10.03.2023 | Meru Health                    | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
-| 21.02.2023 | FiksuRuoka                     | Helsinki, FI    |  The Keys to an Accessibility Mindset                                |
