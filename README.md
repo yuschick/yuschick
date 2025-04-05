@@ -14,9 +14,11 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
 | 21.05.2025 | NDC Oslo | Oslo, NO  |  Building Better Components — A Journey to a More Resilient Frontend  |
+| 27-28.05.2025 | Furure Frontend | Helsinki, FI  |  Conference MC  |
 | 28.05.2025 | Turku ❤️ Frontend | Turku, FI  |  Lift Off! Hand Off! Design Systems Bridging Time And Space (And Species?)  |
 | 29.05.2025 | Into Design Systems | Virtual  |  Handoff: Tips for Documentation, Accessibility and Collaboration  |
 | 03.06.2025 | Webinale             | Berlin, DE  |  Approach With Care - Making Digital Accessibility Feel Natural |
+| 27.08.2025 | Hive Helsinki             | Helsinki, FI  |  Navigating a Tough Job Market: Lessons from Experience |
 | 11.10.2025 | Moldova DevCon             | Chișinău, MD  |  Scaling Design Systems With Consistent Component Conventions (Workshop) |
 
 ### Past Speaking Events
