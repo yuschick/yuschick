@@ -16,7 +16,6 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 | 27.08.2025 | Hive Helsinki             | Helsinki, FI  |  Navigating a Tough Job Market: Lessons from Experience |
 | 12.09.2025 | NDC Copenhagen             | Copenhagen, DK  |  The Shopping Dead: An Accessible Live Web For The Unalive |
 | 11.10.2025 | Moldova DevCon             | Chișinău, MD  |  The Shopping Dead: An Accessible Web For The Unalive |
-| 20.10.2025 | Trondheim Developers Conference             | Trondheim, NO  |  Hand Off! Lift Off! Design Systems Bridging Time And Space (And Species?) |
 
 ### Past Speaking Events
 
