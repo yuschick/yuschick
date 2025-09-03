@@ -13,7 +13,6 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
-| 27.08.2025 | Hive Helsinki             | Helsinki, FI  |  Navigating a Tough Job Market: Lessons from Experience |
 | 12.09.2025 | NDC Copenhagen             | Copenhagen, DK  |  The Shopping Dead: An Accessible Web For The Undead |
 | 11.10.2025 | Moldova DevCon             | Chișinău, MD  |  The Shopping Dead: An Accessible Web For The Undead |
 | 17.12.2025 | Turku ❤️ Frontend             | Turku, FI  |  The Shopping Dead: An Accessible Web For The Undead |
@@ -22,6 +21,7 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 27.08.2025 | Hive Helsinki             | Helsinki, FI  |  Navigating a Tough Job Market: Lessons from Experience |
 | 03.06.2025 | Webinale             | Berlin, DE  |  Approach With Care - Making Digital Accessibility Feel Natural |
 | 29.05.2025 | Into Design Systems | Virtual  |  Handoff: Tips for Documentation, Accessibility and Collaboration  |
 | 27-28.05.2025 | Furure Frontend | Helsinki, FI  |  Conference MC  |
