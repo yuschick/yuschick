@@ -16,6 +16,7 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 | 17.12.2025 | Turku ❤️ Frontend             | Turku, FI  |  The Shopping Dead: An Accessible Web For The Undead |
 | 11.02.2026 | Hive Helsinki             | Helsinki, FI  |  The Shopping Dead: An Accessible Web For The Undead |
 | 25.02.2026 | axe-con             | Virtual  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
+| 8-9.06.2026 | Future Frontend             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
 
 ### Past Speaking Events
 
