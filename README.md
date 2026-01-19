@@ -13,7 +13,7 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
-| 17.12.2025 | Turku ❤️ Frontend             | Turku, FI  |  The Shopping Dead: An Accessible Web For The Undead |
+| 05.02.2026 | TampereJS             | Tampere, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
 | 11.02.2026 | Hive Helsinki             | Helsinki, FI  |  The Shopping Dead: An Accessible Web For The Undead |
 | 25.02.2026 | axe-con             | Virtual  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
 | 8-9.06.2026 | Future Frontend             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
@@ -22,6 +22,7 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 17.12.2025 | Turku ❤️ Frontend             | Turku, FI  |  The Shopping Dead: An Accessible Web For The Undead |
 | 11.10.2025 | Moldova DevCon             | Chișinău, MD  |  The Shopping Dead: An Accessible Web For The Undead |
 | 12.09.2025 | NDC Copenhagen             | Copenhagen, DK  |  The Shopping Dead: An Accessible Web For The Undead |
 | 27.08.2025 | Hive Helsinki             | Helsinki, FI  |  Navigating a Tough Job Market: Lessons from Experience |
