@@ -1,7 +1,7 @@
 ![Daniel Yuschick speaking at Moldova DevCon about web accessibility.](./assets/images/daniel-yuschick--moldova-devcon--github-header.webp)
 
 <h1 align="center">Hey y'all, I'm Daniel 🤘</h1>
-<p align="center"><sup>Lead Design Systems Developer | Accessibility Specialist | Tech Speaker | Horror Author | Mentor | Wannabe Explorer</sup></p>
+<p align="center">Lead Design Systems Developer | Accessibility Specialist | Tech Speaker | Horror Author | Mentor | Wannabe Explorer</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/danielyuschick/"><img alt="LinkedIn logo" src="./assets/icons/icon-linkedin.webp" alt="Daniel Yuschick on LinkedIn" width="25" height="25" /></a>
