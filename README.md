@@ -15,6 +15,7 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
 | 03.06.2026 | NDC Copenhagen             | Copenhagen, DK  |  Building Better Components — A Journey to a More Resilient Frontend |
 | 8-9.06.2026 | Future Frontend             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
+| 22.10.2026 | Converge             | Newcastle, UK  |  From Codebase to Community: Rebuilding Trust in Legacy Design Systems |
 
 ### Past Speaking Events
 
