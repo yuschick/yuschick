@@ -13,8 +13,6 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
-| 03.06.2026 | NDC Copenhagen             | Copenhagen, DK  |  Building Better Components — A Journey to a More Resilient Frontend |
-| 08.06.2026 | Future Frontend             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
 | 17.09.2026 | NDC Oslo             | Oslo, NO  |  The Shopping Dead: A Zombie's Guide to Web Accessibility |
 | 22.10.2026 | Converge             | Newcastle, UK  |  From Codebase to Community: Rebuilding Trust in Legacy Design Systems |
 
@@ -22,6 +20,8 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event                          | Location        |  Title                                                               |
 | ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
+| 03.06.2026 | NDC Copenhagen             | Copenhagen, DK  |  Building Better Components — A Journey to a More Resilient Frontend |
+| 08.06.2026 | Future Frontend             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
 | 25.02.2026 | axe-con             | Virtual  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
 | 23.02.2026 | HelsinkiJS             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
 | 11.02.2026 | Hive Helsinki             | Helsinki, FI  |  The Shopping Dead: An Accessible Web For The Undead |
