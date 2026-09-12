@@ -14,7 +14,6 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 | Date       | Event               | Location |  Title                                                      |
 | ---------- | ------------------- | -------- | ----------------------------------------------------------- |
 | 17.09.2026 | NDC Oslo             | Oslo, NO  |  The Shopping Dead: A Zombie's Guide to Web Accessibility |
-| 01.10.2026 | Into Design Systems             | Helsinki, FI  |  Host / Emcee |
 | 07.10.2026 | Frontmania             | Amsterdam, NL  | Codebase to Community: Rebuilding Trust in Legacy Design Systems<br/>The Shopping Dead: A Zombie's Guide to Web Accessibility |
 | 22.10.2026 | Converge             | Newcastle, UK  |  Codebase to Community: Rebuilding Trust in Legacy Design Systems |
 | 29.01.2027 | NDC London             | London, UK  |  The Shopping Dead: A Zombie's Guide to Web Accessibility |
