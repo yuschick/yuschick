@@ -1,4 +1,4 @@
-![Daniel Yuschick speaking at Moldova DevCon about web accessibility.](./assets/images/daniel-yuschick--moldova-devcon--github-header.webp)
+![Daniel Yuschick speaking at Moldova DevCon about web accessibility.](./assets/images/daniel-yuschick--ndc-oslo--2026.webp)
 
 <h1 align="center">Hey y'all, I'm Daniel 🤘</h1>
 <p align="center">Design Systems Lead | Accessibility Specialist | Tech Speaker | Horror Author | Mentor | Wannabe Explorer</p>
@@ -11,50 +11,50 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 ### Speaking
 
-| Date       | Event               | Location |  Title                                                      |
-| ---------- | ------------------- | -------- | ----------------------------------------------------------- |
-| 17.09.2026 | NDC Oslo             | Oslo, NO  |  The Shopping Dead: A Zombie's Guide to Web Accessibility |
-| 07.10.2026 | Frontmania             | Amsterdam, NL  | Codebase to Community: Rebuilding Trust in Legacy Design Systems<br/>The Shopping Dead: A Zombie's Guide to Web Accessibility |
-| 22.10.2026 | Converge             | Newcastle, UK  |  Codebase to Community: Rebuilding Trust in Legacy Design Systems |
-| 29.01.2027 | NDC London             | London, UK  |  The Shopping Dead: A Zombie's Guide to Web Accessibility |
+| Date       | Event      | Location      |  Title                                                                                                                        |
+| ---------- | ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 17.09.2026 | NDC Oslo   | Oslo, NO      |  The Shopping Dead: A Zombie's Guide to Web Accessibility                                                                     |
+| 07.10.2026 | Frontmania | Amsterdam, NL | Codebase to Community: Rebuilding Trust in Legacy Design Systems<br/>The Shopping Dead: A Zombie's Guide to Web Accessibility |
+| 22.10.2026 | Converge   | Newcastle, UK |  Codebase to Community: Rebuilding Trust in Legacy Design Systems                                                             |
+| 29.01.2027 | NDC London | London, UK    |  The Shopping Dead: A Zombie's Guide to Web Accessibility                                                                     |
 
 ### Past Speaking Events
 
-| Date       | Event                          | Location        |  Title                                                               |
-| ---------- | ------------------------------ | --------------- | -------------------------------------------------------------------- |
-| 03.06.2026 | NDC Copenhagen             | Copenhagen, DK  |  Building Better Components — A Journey to a More Resilient Frontend |
-| 08.06.2026 | Future Frontend             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
-| 25.02.2026 | axe-con             | Virtual  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
-| 23.02.2026 | HelsinkiJS             | Helsinki, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
-| 11.02.2026 | Hive Helsinki             | Helsinki, FI  |  The Shopping Dead: An Accessible Web For The Undead |
-| 05.02.2026 | TampereJS             | Tampere, FI  |  Accessibility Adventures: Lost Secrets of Forced Colors Mode |
-| 17.12.2025 | Turku ❤️ Frontend             | Turku, FI  |  The Shopping Dead: An Accessible Web For The Undead |
-| 11.10.2025 | Moldova DevCon             | Chișinău, MD  |  The Shopping Dead: An Accessible Web For The Undead |
-| 12.09.2025 | NDC Copenhagen             | Copenhagen, DK  |  The Shopping Dead: An Accessible Web For The Undead |
-| 27.08.2025 | Hive Helsinki             | Helsinki, FI  |  Navigating a Tough Job Market: Lessons from Experience |
-| 03.06.2025 | Webinale             | Berlin, DE  |  Approach With Care - Making Digital Accessibility Feel Natural |
-| 29.05.2025 | Into Design Systems | Virtual  |  Handoff: Tips for Documentation, Accessibility and Collaboration  |
-| 27-28.05.2025 | Furure Frontend | Helsinki, FI  |  Conference MC  |
-| 28.05.2025 | Turku ❤️ Frontend | Turku, FI  |  Lift Off! Hand Off! Design Systems Bridging Time And Space (And Species?)  |
-| 21.05.2025 | NDC Oslo | Oslo, NO  |  Building Better Components — A Journey to a More Resilient Frontend  |
-| 11.03.2025 | HelsinkiJS | Helsinki, FI  |  The Shopping Dead: Accessible Live Data For The Unalive  |
-| 27.02.2025 | axe-con             | Virtual  |  It's Alive! Facing The Monsters of Accessible Live Regions |
-| 24.02.2025 | Future Frontend             | Helsinki, FI  |  Beyond JavaScript - Building UIs With Modern HTML & CSS |
-| 06.02.2025 | TampereJS             | Tampere, FI  |  It's Alive! Facing The Monsters of Accessible Live Regions |
-| 18.12.2024 | Turku ❤️ Frontend              | Turku, FI       | Beyond JavaScript - Building UIs With Modern HTML & CSS              |
-| 05.12.2024 | Posti TechCon                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 15.11.2024 | Build Stuff                    | Vilnius, LT     |  Building Better Components — A Journey to a More Resilient Frontend |
-| 02.11.2024 | Moldova DevCon                 | Chișinău, MD    |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 24.10.2024 | STHLM Xperience                | Stockholm, SE   |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 03.10.2024 | RenderCon                      | Remote          |  Building Better Components — A Journey to a More Resilient Frontend |
-| 02.10.2024 | Netlight                       | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 11.07.2024 | TallinnJS                      | Tallinn, EE     |  Beyond JavaScript - Building UIs With Modern HTML & CSS             |
-| 29.05.2024 | Hive Helsinki                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural      |
-| 07.05.2024 | enterJS                        | Mainz, DE       |  The Keys to an Accessibility Mindset                                |
-| 04.04.2024 | TampereJS                      | Tampere, FI     |  Building Better Components — A Journey to a More Resilient Frontend |
-| 22.03.2024 | Michigan Technology Conference | Pontiac, MI, US |  The Keys to an Accessibility Mindset                                |
-| 21.03.2024 | Michigan Technology Conference | Pontiac, MI, US |  Building Better Components — A Journey to a More Resilient Frontend |
-| 29.02.2024 | HelsinkiJS                     | Helsinki, FI    |  Building Better Components — A Journey to a More Resilient Frontend |
-| 28.02.2024 | Turku ❤️ Frontend              | Turku, FI       |  Building Better Components — A Journey to a More Resilient Frontend |
-| 29.09.2023 | RenderCon Nairobi              | Remote          |  The Keys to an Accessibility Mindset                                |
-| 13.09.2023 | StackConf Berlin               | Berlin, DE      |  The Keys to an Accessibility Mindset                                |
+| Date          | Event                          | Location        |  Title                                                                     |
+| ------------- | ------------------------------ | --------------- | -------------------------------------------------------------------------- |
+| 03.06.2026    | NDC Copenhagen                 | Copenhagen, DK  |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 08.06.2026    | Future Frontend                | Helsinki, FI    |  Accessibility Adventures: Lost Secrets of Forced Colors Mode              |
+| 25.02.2026    | axe-con                        | Virtual         |  Accessibility Adventures: Lost Secrets of Forced Colors Mode              |
+| 23.02.2026    | HelsinkiJS                     | Helsinki, FI    |  Accessibility Adventures: Lost Secrets of Forced Colors Mode              |
+| 11.02.2026    | Hive Helsinki                  | Helsinki, FI    |  The Shopping Dead: An Accessible Web For The Undead                       |
+| 05.02.2026    | TampereJS                      | Tampere, FI     |  Accessibility Adventures: Lost Secrets of Forced Colors Mode              |
+| 17.12.2025    | Turku ❤️ Frontend              | Turku, FI       |  The Shopping Dead: An Accessible Web For The Undead                       |
+| 11.10.2025    | Moldova DevCon                 | Chișinău, MD    |  The Shopping Dead: An Accessible Web For The Undead                       |
+| 12.09.2025    | NDC Copenhagen                 | Copenhagen, DK  |  The Shopping Dead: An Accessible Web For The Undead                       |
+| 27.08.2025    | Hive Helsinki                  | Helsinki, FI    |  Navigating a Tough Job Market: Lessons from Experience                    |
+| 03.06.2025    | Webinale                       | Berlin, DE      |  Approach With Care - Making Digital Accessibility Feel Natural            |
+| 29.05.2025    | Into Design Systems            | Virtual         |  Handoff: Tips for Documentation, Accessibility and Collaboration          |
+| 27-28.05.2025 | Furure Frontend                | Helsinki, FI    |  Conference MC                                                             |
+| 28.05.2025    | Turku ❤️ Frontend              | Turku, FI       |  Lift Off! Hand Off! Design Systems Bridging Time And Space (And Species?) |
+| 21.05.2025    | NDC Oslo                       | Oslo, NO        |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 11.03.2025    | HelsinkiJS                     | Helsinki, FI    |  The Shopping Dead: Accessible Live Data For The Unalive                   |
+| 27.02.2025    | axe-con                        | Virtual         |  It's Alive! Facing The Monsters of Accessible Live Regions                |
+| 24.02.2025    | Future Frontend                | Helsinki, FI    |  Beyond JavaScript - Building UIs With Modern HTML & CSS                   |
+| 06.02.2025    | TampereJS                      | Tampere, FI     |  It's Alive! Facing The Monsters of Accessible Live Regions                |
+| 18.12.2024    | Turku ❤️ Frontend              | Turku, FI       | Beyond JavaScript - Building UIs With Modern HTML & CSS                    |
+| 05.12.2024    | Posti TechCon                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural            |
+| 15.11.2024    | Build Stuff                    | Vilnius, LT     |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 02.11.2024    | Moldova DevCon                 | Chișinău, MD    |  Approach With Care - Making Digital Accessibility Feel Natural            |
+| 24.10.2024    | STHLM Xperience                | Stockholm, SE   |  Approach With Care - Making Digital Accessibility Feel Natural            |
+| 03.10.2024    | RenderCon                      | Remote          |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 02.10.2024    | Netlight                       | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural            |
+| 11.07.2024    | TallinnJS                      | Tallinn, EE     |  Beyond JavaScript - Building UIs With Modern HTML & CSS                   |
+| 29.05.2024    | Hive Helsinki                  | Helsinki, FI    |  Approach With Care - Making Digital Accessibility Feel Natural            |
+| 07.05.2024    | enterJS                        | Mainz, DE       |  The Keys to an Accessibility Mindset                                      |
+| 04.04.2024    | TampereJS                      | Tampere, FI     |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 22.03.2024    | Michigan Technology Conference | Pontiac, MI, US |  The Keys to an Accessibility Mindset                                      |
+| 21.03.2024    | Michigan Technology Conference | Pontiac, MI, US |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 29.02.2024    | HelsinkiJS                     | Helsinki, FI    |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 28.02.2024    | Turku ❤️ Frontend              | Turku, FI       |  Building Better Components — A Journey to a More Resilient Frontend       |
+| 29.09.2023    | RenderCon Nairobi              | Remote          |  The Keys to an Accessibility Mindset                                      |
+| 13.09.2023    | StackConf Berlin               | Berlin, DE      |  The Keys to an Accessibility Mindset                                      |
