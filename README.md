@@ -13,8 +13,6 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date       | Event      | Location      |  Title                                                                                                                        |
 | ---------- | ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 17.09.2026 | NDC Oslo   | Oslo, NO      |  The Shopping Dead: A Zombie's Guide to Web Accessibility                                                                     |
-| 07.10.2026 | Frontmania | Amsterdam, NL | Codebase to Community: Rebuilding Trust in Legacy Design Systems<br/>The Shopping Dead: A Zombie's Guide to Web Accessibility |
 | 22.10.2026 | Converge   | Newcastle, UK |  Codebase to Community: Rebuilding Trust in Legacy Design Systems                                                             |
 | 29.01.2027 | NDC London | London, UK    |  The Shopping Dead: A Zombie's Guide to Web Accessibility                                                                     |
 
@@ -22,6 +20,8 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 
 | Date          | Event                          | Location        |  Title                                                                     |
 | ------------- | ------------------------------ | --------------- | -------------------------------------------------------------------------- |
+| 17.09.2026 | NDC Oslo   | Oslo, NO      |  The Shopping Dead: A Zombie's Guide to Web Accessibility                                                                     |
+| 07.10.2026 | Frontmania | Amsterdam, NL | Codebase to Community: Rebuilding Trust in Legacy Design Systems<br/>The Shopping Dead: A Zombie's Guide to Web Accessibility |
 | 03.06.2026    | NDC Copenhagen                 | Copenhagen, DK  |  Building Better Components — A Journey to a More Resilient Frontend       |
 | 08.06.2026    | Future Frontend                | Helsinki, FI    |  Accessibility Adventures: Lost Secrets of Forced Colors Mode              |
 | 25.02.2026    | axe-con                        | Virtual         |  Accessibility Adventures: Lost Secrets of Forced Colors Mode              |
