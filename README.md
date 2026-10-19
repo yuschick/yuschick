@@ -14,6 +14,7 @@ Daniel Yuschick brings over 15 years of experience at the intersection of design
 | Date       | Event      | Location      |  Title                                                                                                                        |
 | ---------- | ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 22.10.2026 | Converge   | Newcastle, UK |  Codebase to Community: Rebuilding Trust in Legacy Design Systems                                                             |
+| 25.11.2026 | Turku ❤️ Frontend | Turku, FI    |  Accessibility Adventures: Lost Secrets of Forced Colors Mode                                                                     |
 | 29.01.2027 | NDC London | London, UK    |  The Shopping Dead: A Zombie's Guide to Web Accessibility                                                                     |
 
 ### Past Speaking Events
