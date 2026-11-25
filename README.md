@@ -1,8 +1,5 @@
 ![Daniel Yuschick summary portfolio slide.](./assets/images/daniel-yuschick--title-slide.webp)
 
-<h1 align="center">Hey y'all, I'm Daniel 🤘</h1>
-<p align="center">Design Systems Lead | Accessibility Specialist | Tech Speaker | Horror Author | Mentor | Wannabe Explorer</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/danielyuschick/"><img alt="LinkedIn logo" src="./assets/icons/icon-linkedin.webp" alt="Daniel Yuschick on LinkedIn" width="25" height="25" /></a>
 </p>
