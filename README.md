@@ -1,4 +1,4 @@
-![Daniel Yuschick speaking at Moldova DevCon about web accessibility.](./assets/images/daniel-yuschick--ndc-oslo--2026.webp)
+![Daniel Yuschick summary portfolio slide.](./assets/images/daniel-yuschick--title-slide.webp)
 
 <h1 align="center">Hey y'all, I'm Daniel 🤘</h1>
 <p align="center">Design Systems Lead | Accessibility Specialist | Tech Speaker | Horror Author | Mentor | Wannabe Explorer</p>
