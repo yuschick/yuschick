@@ -8,15 +8,15 @@ Daniel Yuschick is a design systems lead, architect, and engineer who turns desi
 
 ### Speaking
 
-| Date       | Event                       | Location     |  Title                                                            |
-| ---------- | --------------------------- | ------------ | ----------------------------------------------------------------- |
-| 26.11.2026 | Kesko Design System Monthly | Helsinki, FI |  Codebase to Community: Rebuilding Trust in Legacy Design Systems |
-| 29.01.2027 | NDC London                  | London, UK   |  The Shopping Dead: A Zombie's Guide to Web Accessibility         |
+| Date       | Event      | Location   |  Title                                                    |
+| ---------- | ---------- | ---------- | --------------------------------------------------------- |
+| 29.01.2027 | NDC London | London, UK |  The Shopping Dead: A Zombie's Guide to Web Accessibility |
 
 ### Past Speaking Events
 
 | Date          | Event                          | Location        |  Title                                                                                                                         |
 | ------------- | ------------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 26.11.2026    | Kesko Design System Monthly    | Helsinki, FI    |  Codebase to Community: Rebuilding Trust in Legacy Design Systems                                                              |
 | 25.11.2026    | Turku ❤️ Frontend              | Turku, FI       |  Raiders of the Lost Colors: An Accessibility Adventure                                                                        |
 | 12.11.2026    | TEDI Community Day             | Tallinn, EE     |  Codebase to Community: Rebuilding Trust in Legacy Design Systems                                                              |
 | 22.10.2026    | Zeroheight's Converge          | Newcastle, UK   |  Codebase to Community: Rebuilding Trust in Legacy Design Systems                                                              |
